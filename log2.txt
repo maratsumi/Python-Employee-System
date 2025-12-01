@@ -1,0 +1,8 @@
+Timestamp Log 12:00
+ID	Employee	Hours	Status	Added Hrs	Total Hrs
+7	Brian Doe	198	In	0	198
+2	Gabriel Doe	132	Out	6	138
+1	Angelo Doe	180	Out	4	184
+22	Luis Doe	123	Out	4	127
+15	Zenon Doe	64	Out	4	68
+4	Santino Doe	198	Out	4	202

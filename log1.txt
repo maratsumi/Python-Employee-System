@@ -1,0 +1,6 @@
+Timestamp Log 08:00
+ID	Employee	Hours	Status	Added Hrs	Total Hrs
+4	Santino Doe	198	In	0	198
+15	Zenon Doe	64	In	0	64
+22	Luis Doe	123	In	0	123
+1	Angelo Doe	180	In	0	180
